@@ -45,5 +45,5 @@ plugins: [jekyll-paginate]
 paginate: 3
 paginate_path: "/page/:num/"
 
-theme: hitchens-theme
+theme: jekyll-theme-hitchens
 ignore_theme_config: true
