@@ -40,10 +40,10 @@ markdown: kramdown
 
 plugins: [jekyll-paginate]
 
-# gems:
-#   - jekyll-paginate
+gems:
+  - jekyll-paginate
 paginate: 3
 paginate_path: "/page/:num/"
 
-theme: jekyll-theme-hitchens
+theme: hitchens-theme
 ignore_theme_config: true
